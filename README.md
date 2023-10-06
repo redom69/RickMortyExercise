@@ -23,7 +23,7 @@ Para ello se han desarrollado dos ficheros, el App.js y el CharacterSearch.js.
 
 -  *App.js*: Es el fichero que se encargará de ejecutar la aplicación y que contendrá la búsqueda de personajes.
 
--  *CharacterSearch.js*: Es el fichero que contiene la lógica de búsqueda de personajes. Este estará formado por tres componentes una etiqueta con el nombre de la aplicación un TextInput el cual mediante un hook obtendremos el nombre que se quiere buscar y un botón que subirá el formulario y buscará el personaje.
+-  *CharacterSearch.js*: Es el fichero que contiene la lógica de búsqueda de personajes. Este estará formado por tres componentes una etiqueta con el nombre de la aplicación, un TextInput el cual mediante un hook obtendremos el nombre que se quiere buscar y un botón que subirá el formulario y buscará el personaje.
 
 La única lógica que tiene el código será la de la búsqueda. Mediante la librería de axios haremos un get de la url y obtendremos aquel personaje que hayamos introducido en el TextInput y mostraremos su nombre y su imagen.
 
