@@ -18,3 +18,7 @@ Una vez hecho esto te lanzará la aplicación en el dispositivo virtual y podrem
 ## Tiempo de desarrollo
 
 Alrededor de 1h y 25 minutos. 
+
+
+https://raw.githubusercontent.com/redom69/RickMortyExercise/master/assets/cap1.png
+https://raw.githubusercontent.com/redom69/RickMortyExercise/master/assets/cap2.png
