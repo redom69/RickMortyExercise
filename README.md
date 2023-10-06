@@ -16,7 +16,7 @@ expo start
 que lanzará expo y hará posible el despliegue de la aplicación en el dispositivo móvil.
 Seleccionaremos el sistema operativo que deseamos y se lanzará en el dispositivo seleccionado anteriomente.
 
-## Expliicación de la aplicación
+## Explicación de la aplicación
 
 Esta aplicación es una aplicación básica que lo que hará es mediante un formulario, introduciremos un nombre de un personaje de Rick y Morty y nos sacará una imagen con su nombre.
 Para ello se han desarrollado dos ficheros, el App.js y el CharacterSearch.js.
